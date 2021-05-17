@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f0383e-ecbe-4d1e-b277-fdff084d1345" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1jAuURmqYc5tZ0xNHXS5DYfsei4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/framework-2/framework" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f0383e-ecbe-4d1e-b277-fdff084d1345" name="Default Changelist" comment="" />
+      <created>1603259232722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603259232722</updated>
+      <workItem from="1603259233739" duration="1526000" />
+      <workItem from="1603260932262" duration="1891000" />
+      <workItem from="1603265796027" duration="781000" />
+      <workItem from="1603266589788" duration="855000" />
+      <workItem from="1603268406127" duration="1756000" />
+      <workItem from="1603270822987" duration="5165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="169" width="724" height="775" key="#PHP" timestamp="1603259262185">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="593" y="169" width="724" height="775" key="#PHP/0.32.1920.1048@0.32.1920.1048" timestamp="1603259262185" />
+    <state x="418" y="214" width="1084" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603269464021">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="418" y="214" width="1084" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1603269464021" />
+    <state x="743" y="327" width="424" height="485" key="FileChooserDialogImpl" timestamp="1603272242359">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="327" width="424" height="485" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1603272242359" />
+    <state x="441" y="191" width="1037" height="731" key="SettingsEditor" timestamp="1603270960570">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="441" y="191" width="1037" height="731" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1603270960570" />
+  </component>
+</project>

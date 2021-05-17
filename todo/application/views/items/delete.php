@@ -1,0 +1,1 @@
+<a class="big" href="../viewall">Todo successfully deleted. Click here to go back.</a>
